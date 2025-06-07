@@ -1,1 +1,0 @@
--- this is a sql file, I made it just to demonstrate usecase of git and github
